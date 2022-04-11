@@ -8,7 +8,7 @@ Godot engine is a Open Source Game Engine that lets you develop 2d and 3d games,
 A game engine ís a Software that make the development of games easier, since some functions are pre-made and much simpler to produce better games without worrying about a lot of programming. there are some functions in Godot that already make virtual character cams, collision, area of effect, gravity, character movement, controller support, etc.
 
 ## Why use GdScript?
-Not only because it's the original godot's language, but also because it's a easy-to-learn language. (It supports other languages as well, like C#, Python, etc.)
+Not only because it's the original godot's language, but also because it's a easy-to-learn language. (Godot supports other languages as well, like C#, Python, etc.)
 
 ## How did you made a github commit from Godot?
 Godot has a Github Extension that let you sync the github repo to an local project, instead of using git bash (still, sometimes the bash is better, since the file selection in the extension is a bit odd...)
