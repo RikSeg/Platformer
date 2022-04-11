@@ -5,7 +5,7 @@ A simple Platformer game project using GdScript language (Godot's own scripting 
 Godot engine is a Open Source Game Engine that lets you develop 2D and 3D games, animations, scenarios, etc. with ease.
 
 ## What is a Game Engine?
-A game engine ís a Software that make the development of games easier, since some functions are pre-made and much simpler to produce better games without worrying about a lot of programming. there are some functions in Godot that already make virtual character cams, collision, area of effect, gravity, character movement, controller support, etc.
+A game engine is a Software that make the development of games and animations easier, since some functions are pre-made and much simpler to produce better games without worrying about a lot of programming. There are some functions in Godot that already make character cams, area of collision, area of effect, gravity, character movement, controller support, and others, so you don't need to make one yourself.
 
 ## Why use GdScript?
 Not only because it's the original godot's language, but also because it's a easy-to-learn language. (Godot supports other languages as well, like C#, Python, etc.)
